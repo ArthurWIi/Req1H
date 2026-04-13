@@ -1,0 +1,51 @@
+/* RESET */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* FUNDO HELLDIVERS */
+body {
+    background: url("img/backHell.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+}
+
+/* CONTAINER CENTRAL */
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+/* TÍTULO */
+.titulo {
+    font-size: 50px;
+    color: #c7ff2e;
+    text-shadow: 0 0 15px #c7ff2e;
+}
+
+/* PERSONAGEM */
+.personagem {
+    width: 250px;
+    margin: 20px 0;
+    filter: drop-shadow(0 0 20px #c7ff2e);
+}
+
+/* CARD (CAIXA DE TEXTO) */
+.card {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* TÍTULOS */
+.card h2 {
+    color: #c7ff2e;
+}
+
+/* LISTA */
+.card ul {
+    text-align: left;
+}
